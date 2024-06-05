@@ -4,6 +4,7 @@
     "slug": "SoloSong",
     "version": "1.0.0",
     "orientation": "portrait",
+    "scheme": "SoloSong",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
